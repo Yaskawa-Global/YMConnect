@@ -1,4 +1,4 @@
-<h1><img src="img/mc.png" alt="YMConnect logo" style="width: 100%" /></h1>
+<h1><img src="img/logo2.png" alt="YMConnect logo" style="width: 100%" /></h1>
 
 YMConnect is a communication library for controlling and monitoring a Yaskawa Motoman robot.
 

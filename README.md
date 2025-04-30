@@ -4,6 +4,8 @@ YMConnect is a communication library for controlling and monitoring a Yaskawa Mo
 
 It is compatible with `DX100` and newer controllers. Though many features are only available on the `YRC1000` and newer. 
 
+This library is free to use under an [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license
+
 Documentation is available on the [Motoman Developer Portal](https://developer.motoman.com/en/YMConnect). 
 
 This repository is used for distributing [Releases](https://github.com/Yaskawa-Global/YMConnect/releases).
